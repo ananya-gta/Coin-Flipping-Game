@@ -1,35 +1,35 @@
 # Coin-Flipping-Game
-###Object Oriented Design of a Coin Flipping Game
+### Object Oriented Design of a Coin Flipping Game
 
- USE CASE: Description
+**USE CASE: Description**
 
 > A player at random offers a prediction of a coin flip. The other player gets the other option. The coin is flipped. The correct guess wins.
 
- Triggers
+**Triggers**
 
 > 1. A player at random offers a prediction of a coin flip
 
-Actors
+**Actors**
 
 > 1. A player who makes the prediction
 > 2. A player that gets the other option
 > 3. Coin 
 > 4. Coin Game
 
-Preconditions
+**Preconditions**
 
 > 1. 2 players are available 
 > 2. A coin is available
 
-Goals
+**Goals**
 
 > 1. One player wins and the other loses
 
-Not Available
+**Not Available**
 
 > Failed Conclusion, Extensions (Alternatives)
 
-Steps of Execution
+**Steps of Execution**
 
 > 1. A player at random is picked to predict the coin flip
 > 2. The player picked offers a prediction of a coin flip 
