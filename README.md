@@ -11,19 +11,19 @@
 
 **Actors**
 
-> 1. A player who makes the prediction
-> 2. A player that gets the other option
-> 3. Coin 
-> 4. Coin Game
+> - A player who makes the prediction
+> - A player that gets the other option
+> - Coin 
+> - Coin Game
 
 **Preconditions**
 
-> 1. 2 players are available 
-> 2. A coin is available
+> - 2 players are available 
+> - A coin is available
 
 **Goals**
 
-> 1. One player wins and the other loses
+> - One player wins and the other loses
 
 **Not Available**
 
@@ -31,9 +31,9 @@
 
 **Steps of Execution**
 
-> 1. A player at random is picked to predict the coin flip
-> 2. The player picked offers a prediction of a coin flip 
-> 4. The coin is flipped and a result is provided
-> 5. A winner and loser is picked
-> 3. The other player gets the other coin flip option
-> 6. Offer to try again
+> - A player at random is picked to predict the coin flip
+> - The player picked offers a prediction of a coin flip 
+> - The other player gets the other coin flip option
+> - The coin is flipped and a result is provided
+> - A winner and loser is picked
+> - Offer to try again
