@@ -7,7 +7,7 @@
 
 **Triggers**
 
-> 1. A player at random offers a prediction of a coin flip
+> - A player at random offers a prediction of a coin flip
 
 **Actors**
 
