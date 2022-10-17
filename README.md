@@ -1,2 +1,2 @@
-# Coin-Flipping-Game-
+# Coin-Flipping-Game
 Object Oriented Design of a Coin Flipping Game
