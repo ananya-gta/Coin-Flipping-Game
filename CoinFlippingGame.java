@@ -4,7 +4,7 @@ public class CoinFlippingGame {
 
 	public static void main(String[] args){
 		
-		// Create a coin game with the 2 players provided
+		// Create a coin game with the 2 player provided
 		
 		CoinGame theCoinGame = new CoinGame("Mark", "Tom");
 		
